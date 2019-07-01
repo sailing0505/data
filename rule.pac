@@ -1,7 +1,7 @@
 [SwitchyOmega Conditions]
 
 UrlRegex: https?:\/\/([^\.]*\.)*(google|google-analytics|ggpht|googleapis|googlesyndication|gstatic|googleadservices|googletagservices|googletagmanager|chrome|medium|nokiasiemensnetworks|toscrape|reddit|boxcar2d|cdnjs.cloudflare|wallpapershome|redhat|howtoforge|jeffknupp|quora|wps|withgoogle)\.(com|de)(\.(hk|fi|de))?(\/.*)? 
-UrlRegex: https?:\/\/([^\.]*\.)*(youtube|ytimg|googlevideo|github|goodwordguide|docker|tutorialspoint|github|slack)\.com(\/.*)? 
+UrlRegex: https?:\/\/([^\.]*\.)*(youtube|ytimg|googlevideo|github|goodwordguide|docker|tutorialspoint|github)\.com(\/.*)? 
 UrlRegex: https?:\/\/([^\.]*\.)*(facebook|twitter|blogspot|planttext|codeproject|recurly|discordapp|appframe)\.com(\/.*)? 
 UrlRegex: https?:\/\/([^\.]*\.)*(doubleclick|sourceforge|akamaihd|chinadigitaltimes|cloudfront|facebook)\.net(\/.*)? 
 UrlRegex: https?:\/\/([^\.]*\.)*(tensorflow|webupd8|gnome|phantomjs|apache|golang|lua|processing|p5js|khanacademy|coursera|base64decode|python|golang)\.org(\/.*)? 
