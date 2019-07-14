@@ -4,7 +4,7 @@ UrlRegex: https?:\/\/([^\.]*\.)*(google|google-analytics|ggpht|googleapis|google
 UrlRegex: https?:\/\/([^\.]*\.)*(youtube|ytimg|googlevideo|github|goodwordguide|docker|tutorialspoint|github|slack)\.com(\/.*)? 
 UrlRegex: https?:\/\/([^\.]*\.)*(facebook|twitter|blogspot|planttext|codeproject|recurly|discordapp|appframe)\.com(\/.*)? 
 UrlRegex: https?:\/\/([^\.]*\.)*(doubleclick|sourceforge|akamaihd|chinadigitaltimes|cloudfront|facebook)\.net(\/.*)? 
-UrlRegex: https?:\/\/([^\.]*\.)*(tensorflow|webupd8|gnome|phantomjs|apache|golang|lua|processing|p5js|khanacademy|coursera|base64decode|python|golang)\.org(\/.*)? 
+UrlRegex: https?:\/\/([^\.]*\.)*(tensorflow|webupd8|gnome|phantomjs|apache|golang|lua|processing|p5js|khanacademy|coursera|base64decode|python|golang|scratch.mit)\.(org|edu)(\/.*)? 
 UrlRegex: https?:\/\/([^\.]*\.)*(noobslab|angularjs|jquery|stackoverflow|zvon|scrapy|asciinema|mozilla|sharepoint|testtubegames|perlmaven|kubernetes-site.appspot|mxpnl|programmergirl|appimage|jfrog|virtualbox|libra)\.(com|org)(\/.*)? 
 UrlRegex: https?:\/\/goo\.gl\/.* 
 UrlRegex: https?:\/\/(voxer|polysolve|.*\.yahoo|.*\.zxproxy|hulkshare|wujieliulan|.*\.voxer|.*\.backchina|.*\.box|123kproxy|.*\.reuters|speakerdeck|.*\.zend2|mingjingnews|.*\.sssis|.*\.huhamhire|.*\.googleapis|.*\.m88asia|.*\.mingjingnews|vtunnel|sssis|web4proxy|notredamefans|ixquick|30sf|.*\.deviantart|.*\.youtube|.*\.700sf|fangongheike|btunnel|.*\.123ssh|.*\.123545|.*\.scmp|backchina|.*\.wujieliulan|epochweek|reuters|yoyuyoutube|.*\.73sf|.*\.sf558|.*\.itwitter|.*\.dropbox|oztwitter|.*\.drmacontwitter|.*\.org|.*\.hotspotshield|bjn188|.*\.ntdtv|.*\.ddbbtt|.*\.cmule|.*\.epochtimes|cmule|kanzhongguo|.*\.secretchina)\.com(\/.*)? 
